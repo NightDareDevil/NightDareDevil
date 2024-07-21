@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-
-
 - 🔭 I’m aspiring **Software Engineer**
 
 - 🌱 I’m currently learning **React,DSA**
